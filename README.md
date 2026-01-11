@@ -1,4 +1,4 @@
-\# MNIST Digit Classification using CNN
+# MNIST Digit Classification using CNN
 
 
 
@@ -8,7 +8,7 @@ using the MNIST dataset. The model supports real image upload and prediction.
 
 
 
-\## Tech Stack
+## Tech Stack
 
 \- Python
 
@@ -22,7 +22,7 @@ using the MNIST dataset. The model supports real image upload and prediction.
 
 
 
-\## Features
+## Features
 
 \- CNN with Batch Normalization and Dropout
 
@@ -34,13 +34,13 @@ using the MNIST dataset. The model supports real image upload and prediction.
 
 
 
-\## How to Run
+## How to Run
 
 Open `digit\_classifier.ipynb` in Google Colab or Jupyter and run all cells.
 
 
 
-\## Author
+## Author
 
 Ayush Pandey  
 
