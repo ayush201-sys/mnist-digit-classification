@@ -23,13 +23,15 @@ The model is trained to classify digits (0–9) and also supports real-world ima
 
 The trained CNN achieves high accuracy on unseen MNIST test data, showing strong generalization and robustness.
 
-  ### Training Curves
+  ## Training Curves
 
-**Accuracy**
-![Accuracy Curve](accuracy.png)
+<p align="center">
+  <img src="accuracy.png" width="600">
+</p>
 
-**Loss**
-![Loss Curve](loss.png)
+<p align="center">
+  <img src="loss.png" width="600">
+</p>
 
 ## How to Run
 1. Open `digit_classifier.ipynb` in Google Colab or Jupyter Notebook  
