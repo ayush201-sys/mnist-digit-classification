@@ -22,7 +22,15 @@ The model is trained to classify digits (0–9) and also supports real-world ima
 - Test Loss: 0.0397
 
 The trained CNN achieves high accuracy on unseen MNIST test data, showing strong generalization and robustness.
-  
+
+  ### Training Curves
+
+**Accuracy**
+![Accuracy Curve](accuracy.png)
+
+**Loss**
+![Loss Curve](loss.png)
+
 ## How to Run
 1. Open `digit_classifier.ipynb` in Google Colab or Jupyter Notebook  
 2. Run all cells sequentially  
