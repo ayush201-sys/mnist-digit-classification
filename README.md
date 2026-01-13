@@ -33,6 +33,14 @@ The trained CNN achieves high accuracy on unseen MNIST test data, showing strong
   <img src="loss.png" width="600">
 </p>
 
+### Custom Image Prediction Example
+
+<p align="center">
+  <img src="prediction_example.png" width="300">
+</p>
+
+The model correctly predicts the digit from a real handwritten image.
+
 ## How to Run
 1. Open `digit_classifier.ipynb` in Google Colab or Jupyter Notebook  
 2. Run all cells sequentially  
